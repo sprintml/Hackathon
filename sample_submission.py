@@ -12,7 +12,7 @@ SUBMISSION_FILE = "submission.csv"
 
 # Leaderboard submission
 SERVER_URL = "http://34.122.51.94:80"
-API_KEY = None  # teams insert their assigned token here
+API_KEY = "None"  # teams insert their assigned token here
 TASK_ID = "00-dummy-task"
 
 
